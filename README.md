@@ -1,1 +1,1 @@
-# markov_chain_r
+# Create Markov Chain in R
